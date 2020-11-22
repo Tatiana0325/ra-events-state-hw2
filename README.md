@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/50tp8c0xwi15l9up?svg=true)](https://ci.appveyor.com/project/Tatiana0325/ra-events-state-hw2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
